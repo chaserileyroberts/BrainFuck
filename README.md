@@ -16,3 +16,4 @@ BrainFuck(",.")
 ```bash
 python BrainFuck.py <brain_fuck_source>
 ```
+A simple hello world program has been add as an example.

@@ -1,5 +1,5 @@
 # BrainFuck
-Simple BrainFuck interperter in python.
+Simple BrainFuck interpreter in python.
 
 ## How to use:
 You can either directly use the BrainFuck file or you can import it as a library.
